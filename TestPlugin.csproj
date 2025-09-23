@@ -4,7 +4,7 @@
 	<AssemblyName>TestPlugin</AssemblyName>
 	<TargetFramework>net9.0</TargetFramework>
 	<LangVersion>13</LangVersion>
-	<Copyright>Copyright © Nytra 2025</Copyright>
+	<Copyright>Copyright © YourName 2025</Copyright>
 	<Product>TestPlugin</Product>
   </PropertyGroup>
   <PropertyGroup>
